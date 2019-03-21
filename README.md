@@ -19,6 +19,8 @@
 
 > _This README is built using [markdown-builder](https://github.com/30-seconds/markdown-builder)._
 
+English | [简体中文](https://github.com/Yangfan2016/learn-translate/blob/master/3-30secondsofinterviews_zh.md)
+
 ## Foreword
 
 Interviews are daunting and can make even the most seasoned expert forget things under pressure. Review and learn what questions are commonly encountered in interviews curated by the community that's answered them and go prepared for anything they'll ask. By bringing together experience and real-world examples, you can go from being nervous to being prepared for that next big opportunity.
